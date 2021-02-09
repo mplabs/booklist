@@ -1,0 +1,27 @@
+{
+  "name": "booklist",
+  "version": "1.0.0",
+  "description": "A programming tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "skeleton.css": "^2.0.4"
+  },
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  },
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mplabs/booklist.git"
+  },
+  "keywords": [],
+  "author": "Felix Dürrwald <mplabs@mplabs.de> (https://github.com/mplabs)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mplabs/booklist/issues"
+  },
+  "homepage": "https://github.com/mplabs/booklist#readme"
+}
